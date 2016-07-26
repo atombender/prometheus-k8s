@@ -1,0 +1,6 @@
+[submodule "prometheus"]
+	path = prometheus
+	url = https://github.com/prometheus/prometheus.git
+[submodule "k8s-config-controller"]
+	path = k8s-config-controller
+	url = https://github.com/atombender/k8s-config-controller
